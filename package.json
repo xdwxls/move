@@ -1,0 +1,22 @@
+{
+  "name": "move",
+  "version": "1.0.0",
+  "description": "运动，运动框架",
+  "main": "move.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdwxls/move.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdwxls/move/issues"
+  },
+  "homepage": "https://github.com/xdwxls/move#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
