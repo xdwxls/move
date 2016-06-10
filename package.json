@@ -18,5 +18,8 @@
   "homepage": "https://github.com/xdwxls/move#readme",
   "devDependencies": {
     "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
   }
 }
